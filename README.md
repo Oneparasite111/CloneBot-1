@@ -28,9 +28,12 @@ Note : there are hidden features, check at the source code of the bot to find th
 ### ⚠ You need [service accounts (sa)](https://telegra.ph/How-to-create-and-use-service-accounts-sa-03-31) to use the bot
 <br/><br/>
 
-## ⚛️ Deploying on Heroku
---> https://github.com/MsGsuite/CloneBot_Heroku
-<br/><br/>
+## Deploy on Heroku<
+<p align="left">
+  <a href="https://heroku.com/deploy?template=https://github.com/ANUNEET-Prg/CloneBot">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+</p>
 
 ## 📱 Run the bot on your phone using termux
 
