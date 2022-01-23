@@ -35,6 +35,11 @@ Note : there are hidden features, check at the source code of the bot to find th
   </a>
 </p>
 
+## ☂ Deploying on Railway.app
+
+1. For Direct Deploy,Click on the Below Button<br/>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/ANUNEET-Prg/CloneBot)
+
 ## 📱 Run the bot on your phone using termux
 
 --> https://telegra.ph/Clone-Bot-Termux-04-30
