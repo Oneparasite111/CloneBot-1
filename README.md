@@ -28,7 +28,8 @@ Note : there are hidden features, check at the source code of the bot to find th
 ### ⚠ You need [service accounts (sa)](https://telegra.ph/How-to-create-and-use-service-accounts-sa-03-31) to use the bot
 <br/><br/>
 
-## Deploy on Heroku<
+## Deploy on Heroku
+<p> Deploy directly Through Heroku using below given Button! If you see "Violation" message then Report me and untill that Fork this Repository and Use its URL as "template?template=Your URL to Repo"
 <p align="left">
   <a href="https://heroku.com/deploy?template=https://github.com/ANUNEET-Prg/CloneBot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
