@@ -47,7 +47,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 ## 💠 Host the bot on your computer
 
-1. Download the repo : https://github.com/MsGsuite/CloneBot/archive/refs/heads/master.zip
+1. Download the repo : https://github.com/ANUNEET-Prg/CloneBot/archive/refs/heads/master.zip
 2. Open the config.ini file (inside the telegram_gcloner folder) and fill the following values :
 
 
@@ -77,6 +77,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 ## ❤️ Credits & thanks :
 - [wrenfairbank](https://github.com/wrenfairbank/telegram_gcloner) for the original python script
 - [smartass08](https://github.com/smartass08/telegram_gcloner) to adapt the scrip to heroku
+- [ANUNEET](https://github.com/ANUNEET-Prg) for adding Railway Deployment Button.
 - [anymeofu](https://github.com/anymeofu/CloneBot) for making the Direct Heroku deployable Version
 - Zero-The-Kamisama to making me discover this amazing bot and the detailed instructions
 - [zorgof](https://t.me/zorgof) for the termux script
