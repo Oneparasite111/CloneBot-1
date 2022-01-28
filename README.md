@@ -31,7 +31,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 ## Deploy on Heroku
 <p> Deploy directly Through Heroku using below given Button! If you see "Violation" message then Report me and untill that Fork this Repository and Use its URL as "template?template=Your URL to Repo"
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/ANUNEET-Prg/CloneBot">
+  <a href="https://heroku.com/deploy?template=https://github.com/TheCaduceus/CloneBot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -39,7 +39,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 ## ☂ Deploying on Railway.app
 
 1. For Direct Deploy,Click on the Below Button<br/>
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/ANUNEET-Prg/CloneBot)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TheCaduceus/CloneBot)
 
 ## 📱 Run the bot on your phone using termux
 
@@ -48,7 +48,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 ## 💠 Host the bot on your computer
 
-1. Download the repo : https://github.com/ANUNEET-Prg/CloneBot/archive/refs/heads/master.zip
+1. Download the repo : https://github.com/TheCaduceus/CloneBot/archive/refs/heads/master.zip
 2. Open the config.ini file (inside the telegram_gcloner folder) and fill the following values :
 
 
@@ -78,7 +78,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 ## ❤️ Credits & thanks :
 - [wrenfairbank](https://github.com/wrenfairbank/telegram_gcloner) for the original python script
 - [smartass08](https://github.com/smartass08/telegram_gcloner) to adapt the scrip to heroku
-- [ANUNEET](https://github.com/ANUNEET-Prg) for adding Railway Deployment Button.
+- [Dr.Caduceus](https://github.com/TheCaduceus) for adding Railway Deployment Button.
 - [anymeofu](https://github.com/anymeofu/CloneBot) for making the Direct Heroku deployable Version
 - Zero-The-Kamisama to making me discover this amazing bot and the detailed instructions
 - [zorgof](https://t.me/zorgof) for the termux script
